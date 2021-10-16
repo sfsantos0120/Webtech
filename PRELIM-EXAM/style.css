@@ -1,0 +1,286 @@
+h1 {
+    text-align: left;
+    color:#CC0000 ;
+    font-size: 20px;
+    font-style: unset;
+    font-family: sans-serif;
+}
+
+.ul-1 {
+    color: rgb(182, 33, 33);
+    font-style: unset;
+    font-family: sans-serif;
+}
+
+p{
+    color: maroon;
+}
+
+body{
+    background:white;
+}
+
+.red-1 {
+    color: red;
+    font-weight: bold;
+    font-style: unset;
+    font-family: sans-serif;
+}
+.red-2 {
+    color: red;
+    font-weight: bold;
+    font-style: unset;
+    font-family: sans-serif;
+}
+.blue-1 {
+    color: blue;
+    font-weight: bold;
+    font-style: unset;
+    font-family: sans-serif;
+}
+.green-1 {
+    color: green;
+    font-weight: bold;
+    font-style: unset;
+    font-family: sans-serif;
+}
+.yellow-1 {
+    color:chocolate;
+    font-weight: bold;
+    font-style: unset;
+    font-family: sans-serif;
+}
+.jdc {
+    color: black;
+    font-weight: bold;
+    font-style: unset;
+    font-family: sans-serif;
+}
+.age {
+    color:teal;
+    text-align: left;
+    font-weight: bold;
+    font-style: unset;
+    font-family: sans-serif;
+}
+.red-3 {
+    color: red;
+    font-weight: bold;
+    font-style: unset;
+    font-family: sans-serif;
+
+}
+.green-2 {
+    color: green;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.black-1 {
+    color:black;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.teal-1 {
+    color:teal;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.teal-2 {
+    color:teal;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.teal-3 {
+    color:teal;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.teal-4 {
+    color:teal;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.teal-5 {
+    color:teal;   
+    text-align: left;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.teal-6 {
+    color:teal;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.teal-7 {
+    color:teal;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.teal-8 {
+    color:teal;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.pink-1 {
+    color:palevioletred;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.blue-1 {
+    color: blue;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.blue-2 {
+    color: blue;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.green-3 {
+    color: green;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.teal-9 {
+    color:teal;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.teal-10 {
+    color:teal;
+    text-align: left;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.yellow-2 {
+    color:yellow;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.brown-1 {
+    color:brown;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.orange-1 {
+    color:orange;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.red-4 {
+    color: red;
+    font-weight: bold;
+    font-family: sans-serif;
+
+
+}
+.teal-11 {
+    color:teal;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.teal-12 {
+    color:teal;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.teal-13 {
+    color:teal;
+    font-weight: bold;
+    font-style: unset;
+    font-family: sans-serif;
+}
+.rbp {
+    color:teal;
+    font-weight: bold;
+    font-style: unset;
+    font-family: sans-serif;
+}
+.blue-3 {
+    color: rgb(62, 171, 204);
+    font-weight: bold;
+    font-style: unset;
+    font-family: sans-serif;
+}
+.red-5 {
+    color: red;
+    font-weight: bold;
+    font-style: unset;
+    font-family: sans-serif;
+}
+.maroon-1 {
+    color:maroon;
+    font-weight: bold;
+    font-style: unset;
+    font-family: sans-serif;
+    font:italic
+}
+
+
+table{
+      width:800px;
+      margin:auto;
+      table-layout:fixed;
+      text-align:center;
+      margin-top:40px;
+      font-family:sans-serif;
+      color:rgb(230, 236, 236);
+}
+
+table, th, td {
+    border: 1px solid black ;
+    border-collapse:collapse;
+    border-color:black;
+    padding: 20px;
+    font-size: 20px;
+    padding: 12px 15px;
+    text-align: center;
+}
+
+th{
+    background-color:#D9EAD3;
+    padding:5px;
+    text-transform:initial;
+}
+   
+td:nth-child(4n+1){
+    background:white;
+}
+      
+td:nth-child(4n+2){
+    background:white;
+}
+      
+ td:nth-child(4n+3){
+    background:white;
+}
+
+.footer {
+    color: black;
+    font-weight: bold;
+    font-style: unset;
+    font-family: sans-serif;
+    text-align: center;
+
+}
